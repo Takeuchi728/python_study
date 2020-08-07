@@ -4,6 +4,9 @@ pythonの勉強
 Pythonのドキュメントへの[リンク](https://docs.python.jp/)  
 
 ### 入門編
-- プログラムの実行　test01.py
-- 基本構文　test02.py
-- コンソールからの入力　test03.py
+- プログラムの実行
+  - test01.py
+- 基本構文
+  - test02.py
+- コンソールからの入力
+  - test03.py
