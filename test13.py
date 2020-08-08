@@ -7,3 +7,6 @@ from testmod import TestClass
 
 class_2 = TestClass()
 class_2.test_method('2')
+
+from testmod import TestClass as t
+t.add_method(3)
